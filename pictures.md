@@ -5,7 +5,9 @@ appreciate the things around me better and keep memories to look back on. Not re
 to engineering at all but I wanted to share these pics lol.
 
 ## Northern Lights
-![](/assets/pictures/iceland.jpg)
+<p align="center">
+  <img src="/assets/pictures/iceland.jpg" width="400">
+</p>
 
 Taken in Rejkyavik, Iceland.  
   
@@ -13,7 +15,9 @@ Was my first time seeing northern lights and I genuinely hope everyone gets the 
 hard to believe that something like this can exist, like who let nature be so cool.
 
 ## Norwegien Mountains
-![](/assets/pictures/tromso.jpg)
+<p align="center">
+  <img src="/assets/pictures/tromso.jpg" width="400">
+</p>
 
 Taken near Tromso, Norway.  
 
@@ -21,7 +25,9 @@ There aren't many things that could be more fun than a road trip around Norway, 
 be pretty close. Try out [Vimdows](https://github.com/lwenyi1/Vimdows)!
 
 ## Pink Clouds
-![](/assets/pictures/bath.jpg)
+<p align="center">
+  <img src="/assets/pictures/bath.jpg" width="400">
+</p>
 
 Taken in Bath, United Kingdom.
 
