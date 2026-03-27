@@ -6,7 +6,7 @@ to engineering at all but I wanted to share these pics lol.
 
 ## Northern Lights
 <p align="center">
-  <img src="/assets/pictures/iceland.jpg" width="400">
+  <img src="/assets/pictures/iceland.jpg" width="20%">
 </p>
 
 Taken in Rejkyavik, Iceland.  
@@ -16,7 +16,7 @@ hard to believe that something like this can exist, like who let nature be so co
 
 ## Norwegien Mountains
 <p align="center">
-  <img src="/assets/pictures/tromso.jpg" width="400">
+  <img src="/assets/pictures/tromso.jpg" width="20%">
 </p>
 
 Taken near Tromso, Norway.  
@@ -26,7 +26,7 @@ be pretty close. Try out [Vimdows](https://github.com/lwenyi1/Vimdows)!
 
 ## Pink Clouds
 <p align="center">
-  <img src="/assets/pictures/bath.jpg" width="400">
+  <img src="/assets/pictures/bath.jpg" width="20%">
 </p>
 
 Taken in Bath, United Kingdom.
