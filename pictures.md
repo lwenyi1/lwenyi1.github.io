@@ -14,7 +14,7 @@ Taken in Rejkyavik, Iceland.
 Was my first time seeing northern lights and I genuinely hope everyone gets the opportunity to experience them some day. It's
 hard to believe that something like this can exist, like who let nature be so cool.
 
-## Norwegien Mountains
+## Norwegian Mountains
 <p align="center">
   <img src="/assets/pictures/tromso.jpg" width="50%">
 </p>
