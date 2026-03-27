@@ -1,0 +1,20 @@
+title: Lwenyi's Humble Abode
+description: Me and my projects
+
+remote_theme: pages-themes/cayman@v0.2.0
+
+plugins:
+  - jekyll-remote-theme
+
+# Navbar links
+nav:
+  - name: Home
+    link: /
+  - name: About Me
+    link: /about
+  - name: School Projects
+    link: /school
+  - name: Personal Projects
+    link: /personal
+  - name: Pictures
+    link: /pictures
