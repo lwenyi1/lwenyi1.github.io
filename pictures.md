@@ -9,7 +9,7 @@ to engineering at all but I wanted to share these pics lol.
   <img src="/assets/pictures/iceland.jpg" width="50%">
 </p>
 
-Taken in Rejkyavik, Iceland.  
+Taken in Reykjavik, Iceland.  
   
 Was my first time seeing northern lights and I genuinely hope everyone gets the opportunity to experience them some day. It's
 hard to believe that something like this can exist, like who let nature be so cool.
